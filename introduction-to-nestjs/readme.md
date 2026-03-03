@@ -40,8 +40,6 @@
 - Module này dùng module khác : Module import
 - 1 module sẽ có 3 phần:
 
-#### user.module.ts
-
-#### user.controller.ts
-
-#### user.service.ts
++ user.module.ts
++ user.controller.ts
++ user.service.ts

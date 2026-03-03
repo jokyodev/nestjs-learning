@@ -33,3 +33,15 @@
 ### Create new project
 
 - nest new project-name
+
+## 2. Module
+
+- Mỗi chức năng sẽ co 1 module riêng biệt
+- Module này dùng module khác : Module import
+- 1 module sẽ có 3 phần:
+
+#### user.module.ts
+
+#### user.controller.ts
+
+#### user.service.ts

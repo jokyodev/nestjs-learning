@@ -23,3 +23,13 @@
 
 - Khi team lớn → vẫn giữ được consistency
 - Dễ debug và thêm feature
+
+## Setup Nest.js
+
+### Install Nesjt/cli Global
+
+- pnpm install -g @nestjs/cli
+
+### Create new project
+
+- nest new project-name
